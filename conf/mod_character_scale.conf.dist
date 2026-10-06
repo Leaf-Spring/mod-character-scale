@@ -1,0 +1,25 @@
+[worldserver]
+
+#
+# CharacterScale.Enable
+#        Habilita o deshabilita el módulo de escala de personajes.
+#        Default: 1 (Habilitado)
+#
+
+CharacterScale.Enable = 1
+
+#
+# CharacterScale.MinScale
+#        Escala mínima permitida para los personajes.
+#        Default: 0.5
+#
+
+CharacterScale.MinScale = 0.5
+
+#
+# CharacterScale.MaxScale
+#        Escala máxima permitida para los personajes.
+#        Default: 2.0
+#
+
+CharacterScale.MaxScale = 2.0
